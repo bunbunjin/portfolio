@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm bunbunjin"
-subheading: "Student in Okyama"
+subheading: "College student in Okyama"
 handle: "bunbunjin_aisu"
 ---

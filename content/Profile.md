@@ -5,7 +5,7 @@ draft: true
 ---
 
 Ryu Kajie（bunbunjin）  
-I'm 18 ages that has Lived in Okayama-city.
+I'm 18 ages that has lived in Okayama-city.
 
 Doing now
 ---
