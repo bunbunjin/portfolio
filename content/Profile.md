@@ -15,7 +15,7 @@ Doing now
 - RaspberryPi
 >- camera ...
 
-I read textbook
+Textbook
 ---
 - いちばんやさしいPythonの教本
 - 独学プログラマー
