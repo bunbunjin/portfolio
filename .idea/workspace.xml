@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e8522d-072a-4a37-8023-e928bc965cfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/content/Profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Profile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-codex" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-codex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/pages/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/pages/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/pages/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/pages/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/partials/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-codex/assets/scss/partials/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-codex/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-codex/layouts/_default/single.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pqCtmNwosXF5LxVUg2GWIAeYyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e8522d-072a-4a37-8023-e928bc965cfd" name="Default Changelist" comment="" />
+      <created>1615901452983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615901452983</updated>
+    </task>
+    <servers />
+  </component>
+</project>
