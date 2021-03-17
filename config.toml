@@ -4,7 +4,7 @@ publishDir = "docs"
 # Override these settings with your own
 title = "bunbunjin"
 languageCode = "ja"
-baseURL = "https://bunbunjin.gihub.io/portfolio.github.io"
+baseURL = "https://portfolio.github.io"
 copyright = "© {year}"
 canonifyrls = true
 
