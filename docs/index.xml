@@ -2,10 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bunbunjin</title>
-    <link>https://bunbunjin.gihub.io/portfolio.github.io/</link>
+    <link>https://bunbunjin.github.io/portfolio.github.io/</link>
     <description>Recent content on bunbunjin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© {year}</copyright><atom:link href="https://bunbunjin.gihub.io/portfolio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 18 Mar 2021 00:58:10 +0900</lastBuildDate><atom:link href="https://bunbunjin.github.io/portfolio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/blog/test/</link>
+      <pubDate>Thu, 18 Mar 2021 00:58:10 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/test/</guid>
+      <description>あfkじゃkdf</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/profile/</link>
+      <pubDate>Tue, 16 Mar 2021 22:23:21 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/profile/</guid>
+      <description>Ryu Kajie（bunbunjin）
+I&amp;rsquo;m 18 ages that has Lived in Okayama-city.
+Doing now  Python3    Web scraping Bot    RaspberryPi    camera &amp;hellip;   Textbook  いちばんやさしいPythonの教本 独学プログラマー スラスラ読める Pythonふりがなプログラミング Python実践入門  Hobby  Python Coffee (Drip &amp;amp; Drink) Watching anime  </description>
+    </item>
+    
+    <item>
+      <title>:Blog Post</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/blog/blog-post/</link>
+      <pubDate>Tue, 16 Mar 2021 22:11:59 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/blog-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/posts/test/</link>
+      <pubDate>Tue, 16 Mar 2021 22:04:55 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/posts/first-post/</link>
+      <pubDate>Tue, 16 Mar 2021 19:49:21 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/posts/first-post/</guid>
+      <description>我々は宇宙人だ うぇーーい</description>
+    </item>
+    
+    <item>
+      <title>Opus</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/opus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/opus/</guid>
+      <description>作った物の概要を書き殴っていく 詳しくはBlogに書いていく Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ  結果はWebカメラにはなった(?)けど2秒ぐらいの遅延があって使い物にならなかった
+ 7時時点で警報が出てるかLINEで通知してくれるやつ  警報出た時にLINEで通知してくれるやつ作った。
+&amp;mdash; ぶんぶん人 (@bunbunjin_aisu) July 26, 2020   raspberry pi でおかえりって言ってもらうやつ  「おかえり・いってらっしゃいを言ってくれるラズパイさん」がある程度完成した。あとは壁につけるだけ
+&amp;mdash; ぶんぶん人 (@bunbunjin_aisu) March 31, 2020   漢数字を数字に変換するやつ  漢数字を変換するやつ。ちょっと前に作ってた😘 pic.twitter.com/7SIPoENcoi
+&amp;mdash; ぶんぶん人 (@bunbunjin_aisu) June 13, 2020   これまでの練習のやつ   教材で書いた方のコードは全然あげてないけど   </description>
+    </item>
+    
   </channel>
 </rss>
