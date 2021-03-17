@@ -6,6 +6,7 @@ title = "bunbunjin"
 languageCode = "ja"
 baseURL = "https://portfolio.github.io"
 copyright = "© {year}"
+canonifyrls = true
 
 # Add your Disqus shortname here.
 # disqusShortname = "aaaaa"
