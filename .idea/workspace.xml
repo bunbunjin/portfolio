@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e8522d-072a-4a37-8023-e928bc965cfd" name="Default Changelist" comment="" />
+    <list default="true" id="52e8522d-072a-4a37-8023-e928bc965cfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/portfolio.github.io/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
