@@ -1,6 +1,9 @@
 .splash h1 {
     font-size: 4.55em;
 }
+.splash h2 {
+    font-size: 1.75em;
+}
 
 .nav li :hover {
     color: $black;
