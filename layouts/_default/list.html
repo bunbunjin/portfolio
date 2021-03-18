@@ -5,7 +5,9 @@
 {{ define "main" }}
     
 {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2 2006" }}    
-
+<head>
+  <link rel="stylesheet" type="text/plain" href="css/main.css" media="screen">
+</head>
 <div class="post-list__container">
   <ul class="post-list">
     {{ range .Pages }}

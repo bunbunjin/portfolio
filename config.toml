@@ -8,7 +8,7 @@ baseURL = "https://bunbunjin.github.io/portfolio.github.io/"
 copyright = "© {year}"
 canonifyrls = true
 [params]
-    customCSS = ["/css/main.css"]
+    customCSS = ["/css/main.css", "/css/sub.css"]
 
 # Add your Disqus shortname here.
 # disqusShortname = "aaaaa"

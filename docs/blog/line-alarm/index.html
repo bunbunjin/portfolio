@@ -73,10 +73,14 @@
     }
   
   </script>
+<link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
-  <div class="burger__container">
+  <head>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<div class="burger__container">
   <div class="burger" aria-controls="navigation" aria-label="Menu">
     <div class="burger__meat burger__meat--1"></div>
     <div class="burger__meat burger__meat--2"></div>
@@ -86,7 +90,7 @@
  
 
   <head>
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/plain" href="css/main.css">
 </head>
 <nav class="nav" id="navigation">
   <ul class="nav__list">
@@ -128,26 +132,30 @@
 <h1 id="警報が出たらlineで通知してくれるやつ">警報が出たらLINEで通知してくれるやつ</h1>
 <p>##概要
 高校在学中の僕は、とにかく学校に行きたくなくてかなりの頻度で「岡山　警報」とググっていた。
-正直だるくなったので気象庁HPをスクレイピングしてLINEに通知させるようにした。
-##使ったやつ</p>
+正直だるくなったので気象庁HPをスクレイピングしてLINEに通知させるようにした。</p>
+<h2 id="使ったやつ">使ったやつ<a class="anchor" href="#使ったやつ">#</a></h2>
 <blockquote>
 <ul>
 <li>Python3</li>
 <li>BeautifulSoup</li>
-<li>LINE Nofity
-##対象地域</li>
+<li>LINE Nofity</li>
+</ul>
+</blockquote>
+<h2 id="対象地域">対象地域<a class="anchor" href="#対象地域">#</a></h2>
+<blockquote>
+<ul>
 <li>岡山市</li>
 <li>美作市</li>
 </ul>
 </blockquote>
-<p>##コードについて
-<a href="https://github.com/bunbunjin/line_closed_school/blob/master/okayama_weather.py" 
+<h2 id="コードについて">コードについて<a class="anchor" href="#コードについて">#</a></h2>
+<p><a href="https://github.com/bunbunjin/line_closed_school/blob/master/okayama_weather.py" 
   
    target="_blank" rel="noreferrer noopener" 
 >実際のコード</a>
 
 を見ればわかるが、dictを多用しているから可読性は低い</p>
-<p>##思ったこと</p>
+<h2 id="思ったこと">思ったこと<a class="anchor" href="#思ったこと">#</a></h2>
 <ul>
 <li>今回は手動で市町村を入力したが、今後もし似たようなものを作るときはここを自動化したい</li>
 </ul>

@@ -73,10 +73,14 @@
     }
   
   </script>
+<link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
-  <div class="burger__container">
+  <head>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<div class="burger__container">
   <div class="burger" aria-controls="navigation" aria-label="Menu">
     <div class="burger__meat burger__meat--1"></div>
     <div class="burger__meat burger__meat--2"></div>
@@ -86,7 +90,7 @@
  
 
   <head>
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/plain" href="css/main.css">
 </head>
 <nav class="nav" id="navigation">
   <ul class="nav__list">
@@ -127,7 +131,7 @@
               
 <h1 id="raspberry-pi-にamazonにあった安いカメラモジュールをつけた話">Raspberry Pi にAmazonにあった安いカメラモジュールをつけた話</h1>
 <h2 id="今回の流れ">今回の流れ<a class="anchor" href="#今回の流れ">#</a></h2>
-<p>####OBSのVirtualCameraで良い感じにしようと思って進めた<br>
+<p>OBSのVirtualCameraで良い感じにしようと思って進めた<br>
 Amazonで激安カメラモジュールを見つける<br>
 ↓<br>
 OpneCV<br>
@@ -135,16 +139,16 @@ OpneCV<br>
 Motion<br>
 ↓<br>
 VLC</p>
-<p>###Amazonでカメラモジュールを発見
-webカメラ買いたくないから探した</p>
-<p>###OpenCV
-画像処理を全く知らないので色々勉強しないといけなくなって最終的にはわけもわからずすぐにOpenCVはやめた</p>
-<p>###Motion
-最初、&ldquo;Motion&quot;を見つけた時は「これだっ！！」ってなった。でも使ってみたらフレームレートがめちゃくちゃ低い＆遅延が半端なかった</p>
-<p>###VLC
-VLCを使って、カメラモジュールからの映像をrtps経由でMBPで見えるようにしたやつを見つけた。これはFPSが&quot;motion&quot;の比にならないぐらいよかった。また、遅延も比較的改善されていた。</p>
-<p>##結果
-結局遅延すごし、使わなくなった。
+<h2 id="amazonでカメラモジュールを発見">Amazonでカメラモジュールを発見<a class="anchor" href="#amazonでカメラモジュールを発見">#</a></h2>
+<p>webカメラ買いたくないから探した</p>
+<h2 id="opencv">OpenCV<a class="anchor" href="#opencv">#</a></h2>
+<p>画像処理を全く知らないので色々勉強しないといけなくなって最終的にはわけもわからずすぐにOpenCVはやめた</p>
+<h2 id="motion">Motion<a class="anchor" href="#motion">#</a></h2>
+<p>最初、&ldquo;Motion&quot;を見つけた時は「これだっ！！」ってなった。でも使ってみたらフレームレートがめちゃくちゃ低い＆遅延が半端なかった</p>
+<h2 id="vlc">VLC<a class="anchor" href="#vlc">#</a></h2>
+<p>VLCを使って、カメラモジュールからの映像をrtps経由でMBPで見えるようにしたやつを見つけた。これはFPSが&quot;motion&quot;の比にならないぐらいよかった。また、遅延も比較的改善されていた。</p>
+<h2 id="結果">結果<a class="anchor" href="#結果">#</a></h2>
+<p>結局遅延すごし、使わなくなった。
 いろんな手段を探したから勉強になった。</p>
 
 
