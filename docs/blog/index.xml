@@ -41,5 +41,14 @@ VLC
  今回は手動で市町村を入力したが、今後もし似たようなものを作るときはここを自動化したい  </description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/blog/test/</link>
+      <pubDate>Thu, 18 Mar 2021 00:58:10 +0900</pubDate>
+      
+      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/test/</guid>
+      <description>テストなう</description>
+    </item>
+    
   </channel>
 </rss>

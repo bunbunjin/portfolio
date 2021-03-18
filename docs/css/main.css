@@ -1,0 +1,11 @@
+.splash h1 {
+    font-size: 4.55em;
+}
+
+.nav li :hover {
+    color: $black;
+    background: -webkit-linear-gradient(0deg, #10002b, #240046, #3c096c, #5a189a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
