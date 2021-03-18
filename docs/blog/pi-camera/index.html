@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <title>Pi Camera | bunbunjin</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Pi Camera" />
+  <meta name="twitter:description" content=""/>
+  <meta name="twitter:site" content="https://twitter.com/bunbunjin_aisu" />
+  <meta name="twitter:creator" content="https://twitter.com/bunbunjin_aisu" />
+  
+
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link type="text/css" rel="stylesheet" href="/portfolio.github.io/css/post.min.b60e0932fe1c50c3d7c5b4f83ee9e4592363654d0f2abf05bbd0678d5b8a214c.css" integrity="sha256-tg4JMv4cUMPXxbT4PunkWSNjZU0PKr8Fu9BnjVuKIUw="/>
+  
+    
+    <link type="text/css" rel="stylesheet" href="/portfolio.github.io/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU="/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/bunbunjin.github.io\/portfolio.github.io\/"
+      },
+      "articleSection" : "blog",
+      "name" : "Pi Camera",
+      "headline" : "Pi Camera",
+      "description" : "",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2021",
+      "datePublished": "2021-03-18 10:56:23 \u002b0900 JST",
+      "dateModified" : "2021-03-18 10:56:23 \u002b0900 JST",
+      "url" : "https:\/\/bunbunjin.github.io\/portfolio.github.io\/blog\/pi-camera\/",
+      "wordCount" : "23",
+      "keywords" : ["Blog"]
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" id="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/portfolio.github.io/">About</a>
+      </li>
+    
+      <li>
+        <a  href="/portfolio.github.io/blog">Blog</a>
+      </li>
+    
+      <li>
+        <a  href="/portfolio.github.io/opus">Opus</a>
+      </li>
+    
+      <li>
+        <a  href="/portfolio.github.io/profile">Profile</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">Pi Camera</h1>
+            <time datetime="2021-03-18 10:56:23 &#43;0900 JST" class="post__date">Mar 18 2021</time> 
+          </header>
+          <article class="post__content">
+              
+<h1 id="raspberry-pi-にamazonにあった安いカメラモジュールをつけた話">Raspberry Pi にAmazonにあった安いカメラモジュールをつけた話</h1>
+<h2 id="今回の流れ">今回の流れ<a class="anchor" href="#今回の流れ">#</a></h2>
+<p>####OBSのVirtualCameraで良い感じにしようと思って進めた<br>
+Amazonで激安カメラモジュールを見つける<br>
+↓<br>
+OpneCV<br>
+↓<br>
+Motion<br>
+↓<br>
+VLC</p>
+<p>###Amazonでカメラモジュールを発見
+webカメラ買いたくないから探した</p>
+<p>###OpenCV
+画像処理を全く知らないので色々勉強しないといけなくなって最終的にはわけもわからずすぐにOpenCVはやめた</p>
+<p>###Motion
+最初、&ldquo;Motion&quot;を見つけた時は「これだっ！！」ってなった。でも使ってみたらフレームレートがめちゃくちゃ低い＆遅延が半端なかった</p>
+<p>###VLC
+VLCを使って、カメラモジュールからの映像をrtps経由でMBPで見えるようにしたやつを見つけた。これはFPSが&quot;motion&quot;の比にならないぐらいよかった。また、遅延も比較的改善されていた。</p>
+<p>##結果
+結局遅延すごし、使わなくなった。
+いろんな手段を探したから勉強になった。</p>
+
+
+              
+          </article>
+          
+
+ <div class="pagination">
+  
+    <a class="pagination__item" href="https://bunbunjin.github.io/portfolio.github.io/blog/line-alarm/">
+        <span class="pagination__label">Previous Post</span>
+        <span class="pagination__title">Line Alarm</span>
+    </a>
+  
+
+  
+</div>
+
+          
+          <footer class="post__footer">
+            
+
+
+<div class="social-icons">
+  
+     
+    
+      <a class="social-icons__link" rel="me" title="Twitter"
+         href="https://twitter.com/bunbunjin_aisu"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://bunbunjin.github.io/portfolio.github.io/svg/twitter.svg')"></div>
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__link" rel="me" title="GitHub"
+         href="https://github.com/bunbunjin"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://bunbunjin.github.io/portfolio.github.io/svg/github.svg')"></div>
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__link" rel="me" title="Facebook"
+         href="https://facebook.com/bunbunjin.aisu"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://bunbunjin.github.io/portfolio.github.io/svg/facebook.svg')"></div>
+      </a>
+    
+     
+</div>
+
+            <p>© 2021</p>
+          </footer>
+          </div>
+      </div>
+      
+    </div>
+    
+
+  </main>
+
+   
+
+  
+  <script src="/portfolio.github.io/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+  
+
+
+</body>
+
+</html>

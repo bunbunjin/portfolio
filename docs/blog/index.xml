@@ -7,23 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 18 Mar 2021 00:58:10 +0900</lastBuildDate><atom:link href="https://bunbunjin.github.io/portfolio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 10:56:23 +0900</lastBuildDate><atom:link href="https://bunbunjin.github.io/portfolio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://bunbunjin.github.io/portfolio.github.io/blog/test/</link>
-      <pubDate>Thu, 18 Mar 2021 00:58:10 +0900</pubDate>
+      <title>Pi Camera</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/blog/pi-camera/</link>
+      <pubDate>Thu, 18 Mar 2021 10:56:23 +0900</pubDate>
       
-      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/test/</guid>
-      <description>あfkじゃkdf</description>
+      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/pi-camera/</guid>
+      <description>Raspberry Pi にAmazonにあった安いカメラモジュールをつけた話 今回の流れ ####OBSのVirtualCameraで良い感じにしようと思って進めた
+Amazonで激安カメラモジュールを見つける
+↓
+OpneCV
+↓
+Motion
+↓
+VLC
+###Amazonでカメラモジュールを発見 webカメラ買いたくないから探した
+###OpenCV 画像処理を全く知らないので色々勉強しないといけなくなって最終的にはわけもわからずすぐにOpenCVはやめた
+###Motion 最初、&amp;ldquo;Motion&amp;quot;を見つけた時は「これだっ！！」ってなった。でも使ってみたらフレームレートがめちゃくちゃ低い＆遅延が半端なかった
+###VLC VLCを使って、カメラモジュールからの映像をrtps経由でMBPで見えるようにしたやつを見つけた。これはFPSが&amp;quot;motion&amp;quot;の比にならないぐらいよかった。また、遅延も比較的改善されていた。
+##結果 結局遅延すごし、使わなくなった。 いろんな手段を探したから勉強になった。</description>
     </item>
     
     <item>
-      <title>:Blog Post</title>
-      <link>https://bunbunjin.github.io/portfolio.github.io/blog/blog-post/</link>
-      <pubDate>Tue, 16 Mar 2021 22:11:59 +0900</pubDate>
+      <title>Line Alarm</title>
+      <link>https://bunbunjin.github.io/portfolio.github.io/blog/line-alarm/</link>
+      <pubDate>Thu, 18 Mar 2021 10:19:32 +0900</pubDate>
       
-      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/blog-post/</guid>
-      <description></description>
+      <guid>https://bunbunjin.github.io/portfolio.github.io/blog/line-alarm/</guid>
+      <description>警報が出たらLINEで通知してくれるやつ ##概要 高校在学中の僕は、とにかく学校に行きたくなくてかなりの頻度で「岡山　警報」とググっていた。 正直だるくなったので気象庁HPをスクレイピングしてLINEに通知させるようにした。 ##使ったやつ
+  Python3 BeautifulSoup LINE Nofity ##対象地域 岡山市 美作市   ##コードについて 実際のコード を見ればわかるが、dictを多用しているから可読性は低い
+##思ったこと
+ 今回は手動で市町村を入力したが、今後もし似たようなものを作るときはここを自動化したい  </description>
     </item>
     
   </channel>

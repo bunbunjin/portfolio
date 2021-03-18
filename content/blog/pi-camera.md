@@ -1,7 +1,7 @@
 ---
 title: "Pi Camera"
 date: 2021-03-18T10:56:23+09:00
-draft: true
+draft: false
 ---
 
 Raspberry Pi にAmazonにあった安いカメラモジュールをつけた話
