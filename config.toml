@@ -7,6 +7,9 @@ languageCode = "ja"
 baseURL = "https://bunbunjin.github.io/portfolio.github.io/"
 copyright = "© {year}"
 canonifyrls = true
+[params]
+    customCSS = ["/css/main.css", "/css/sub.ccss"]
+    og_image = "/thumbnails/default.png"
 # Add your Disqus shortname here.
 # disqusShortname = "aaaaa"
 
@@ -36,9 +39,8 @@ canonifyrls = true
   iconOrder = ["Twitter", "GitHub", "Facebook"]
 
   # Metadata for Twitter cards, defaults to params.twitter
-[params]
-    customCSS = ["/css/main.css", "/css/sub.ccss"]
-    og_image = "/thumbnails/default.png"
+
+
 
 twitterSite = "@bunbunjin_aisu"
 twitterAuthor = "@bunbunjin_aisu"
