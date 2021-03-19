@@ -15,7 +15,7 @@
   <!-- Twitter -->
   {{ if isset .Site.Params "twitter" }}
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="{{ .Title }}" />
+  <meta name="twitter:title" content="bunbunjinのポートフォリオ" />
   <meta name="twitter:description" content="{{ if .IsHome }}{{ htmlEscape .Site.Params.description }}{{ else }}{{ htmlEscape .Description }}{{ end }}"/>
   <meta name="twitter:site" content="{{ .Site.Params.twitterSite | default .Site.Params.twitter }}" />
   <meta name="twitter:creator" content="{{ .Site.Params.twitterCreator | default .Site.Params.twitter }}" />
