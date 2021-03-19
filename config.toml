@@ -40,11 +40,11 @@ canonifyrls = true
     customCSS = ["/css/main.css", "/css/sub.ccss"]
     og_image = "/thumbnails/default.png"
 
-    twitterSite = "@bunbunjin_aisu"
-    twitterAuthor = "@bunbunjin_aisu"
-    twitterTitle = 'bunbunjin'
-    twitterDescription = 'bunbunjin'
-    twitterImage = 'https://twitter.com/bunbunjin_aisu/photo'
+twitterSite = "@bunbunjin_aisu"
+twitterAuthor = "@bunbunjin_aisu"
+twitterTitle = 'bunbunjin'
+twitterDescription = 'bunbunjin'
+twitterImage = 'https://twitter.com/bunbunjin_aisu/photo'
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
 
